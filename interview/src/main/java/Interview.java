@@ -6,7 +6,7 @@ public class Interview {
                 System.out.println(valArrListMy);
 
                 LinkedListMy<String> listLinked = new LinkedListMy<String>();
-                listLinked.add("123");
+                listLinked.add("1234");
                 String valLinkedListMy = listLinked.get(0);
                 System.out.println(valLinkedListMy);
 
