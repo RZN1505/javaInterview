@@ -1,3 +1,6 @@
 .idea/*
 out/*
 *.iml
+websocket/.idea/*
+websocket/.mvn/*
+websocket/target/*
